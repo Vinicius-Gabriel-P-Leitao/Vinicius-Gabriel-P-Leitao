@@ -12,7 +12,7 @@ Tendência a cair em rabbit holes técnicos — e não me arrepender.
 
 ### Aprendendo agora
 
-[![My Skills](https://skillicons.dev/icons?i=spring,kotlin,android&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,kotlin,androidstudio,ansible&perline=10)](https://skillicons.dev)
 
 ### Na fila
 
@@ -20,7 +20,7 @@ Tendência a cair em rabbit holes técnicos — e não me arrepender.
 
 ---
 
-### Status
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Gabriel-P-Leitao&layout=compact&theme=tokyonight&hide_border=true" width="400" />
@@ -33,6 +33,8 @@ Tendência a cair em rabbit holes técnicos — e não me arrepender.
 ### Snake
 
 ![Snake](https://raw.githubusercontent.com/Vinicius-Gabriel-P-Leitao/Vinicius-Gabriel-P-Leitao/output/github-contribution-grid-snake-dark.svg)
+
+> ⚠️ A snake exige uma GitHub Action no repositório do perfil. [Veja como configurar.](https://github.com/Platane/snk)
 
 ---
 

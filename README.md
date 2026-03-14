@@ -34,8 +34,6 @@ Tendência a cair em rabbit holes técnicos — e não me arrepender.
 
 ![Snake](https://raw.githubusercontent.com/Vinicius-Gabriel-P-Leitao/Vinicius-Gabriel-P-Leitao/output/github-contribution-grid-snake-dark.svg)
 
-> ⚠️ A snake exige uma GitHub Action no repositório do perfil. [Veja como configurar.](https://github.com/Platane/snk)
-
 ---
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.gabriel.p.leitao@gmail.com)

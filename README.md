@@ -10,7 +10,7 @@
 
 ### Na fila
 
-<img src="https://skillicons.dev/icons?i=kubernetes,jenkins,c,rust,lua&perline=6" />
+<img src="https://skillicons.dev/icons?i=kubernetes,jenkins&perline=6" />
 
 ---
 

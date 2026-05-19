@@ -16,13 +16,13 @@
 </ul>
   
 <h3>Tecnologias & Ferramentas</h3>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,java,python,gradle,postgres,sqlite,mongodb,docker,linux,bash,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,java,spring,python,gradle,postgres,sqlite,mongodb,docker,linux,bash,postman&perline=5" />
 
 <h3>🚀 Estou aprendendo</h3>
-<img src="https://skillicons.dev/icons?i=svelte,spring,kotlin,androidstudio,ansible&perline=6" />
+<img src="https://skillicons.dev/icons?i=rust,tauri,svelte,kotlin,androidstudio,ansible&perline=5" />
 
 <h3>⏳ Quero aprender (Na fila)</h3>
-<img src="https://skillicons.dev/icons?i=rust,tauri,kubernetes,jenkins&perline=6" />
+<img src="https://skillicons.dev/icons?i=kubernetes,jenkins&perline=5" />
 </td>
 </tr>
 </table>

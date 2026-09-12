@@ -39,4 +39,4 @@
 
 ### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333?style=flat-square&logo=gmail&logoColor=white)](mailto:vinicius.gabriel.p.leitao@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-pereira-leit%C3%A3o/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gpl/)
